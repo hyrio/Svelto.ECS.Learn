@@ -1,3 +1,12 @@
 /Logs
 /Temp
 /Library
+/Svelto.Tasks.StopEditorThread.csproj
+/obj
+/Svelto.Common.csproj
+/Svelto.ECS.Components.Unity.csproj
+/Svelto.ECS.csproj
+/Svelto.ECS.Learn.sln
+/Svelto.Pool.Debugger.csproj
+/Svelto.Tasks.csproj
+/.vs
